@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo "before build" >> /usr/share/nginx/html/index.html
+RUN echo "before build Test" >> /usr/share/nginx/html/index.html
